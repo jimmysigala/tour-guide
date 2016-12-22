@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="category_colors">#424242</color>
+    <color name="description2_color">#F5F5F5</color>
+    <color name="tab_title_color">#FFFFFF</color>
+</resources>

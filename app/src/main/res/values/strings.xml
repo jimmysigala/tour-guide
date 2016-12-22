@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Irvine Tour Guide</string>
+
+    <string name="category_park">Parks</string>
+    <string name="category_artmuseum">Museums</string>
+    <string name="category_historic">Historical</string>
+    <string name="category_eat">Restaurants</string>
+    <string name="category_Main">Main</string>
+
+    <string name="museum_irvine">The Irvine Museum</string>
+    <string name="museum_irvine_sub">18881 Von Karman Ave\nIrvine, CA 92612\n(949) 476&#8211;0294</string>
+    <string name="museum_pretend_city">Pretend City Childrens Museum</string>
+    <string name="museum_pretend_city_sub">29 Hubble\nIrvine, CA 92618\n(949) 428&#8211;3900</string>
+
+    <string name="eat_fish_grill">California Fish Grill</string>
+    <string name="eat_fish_grill_sub">Seafood\n3988 Barranca Pkwy \nIrvine, CA 92606\n(949) 654&#8211;3838</string>
+    <string name="eat_north_italia">North Italia</string>
+    <string name="eat_north_italia_sub">Pizza, Italian\n2957 Michelson Dr\nIrvine, CA 92612\n(949) 629&#8211;7060</string>
+    <string name="eat_crazy">Crazy Rockn Sushi</string>
+    <string name="eat_crazy_sub">Sushi Bars, Japanese\n5365 Alton Pkwy\nIrvine, CA 92604\n(949) 551&#8211;3599</string>
+    <string name="eat_diplomate">Le Diplomate Cafe</string>
+    <string name="eat_diplomate_sub">Bakeries, Sandwiches\nUniversity Center\n(949) 854&#8211;5161</string>
+    <string name="eat_stacks">Stacks Pancake House</string>
+    <string name="eat_stacks_sub">Breafast, Brunch, Salad\n14421 Culver Dr\nIrvine, CA 92604\n(949) 679&#8211;1233</string>
+    <string name="eat_bruxie">Bruxie</string>
+    <string name="eat_bruxie_sub">Sandwiches, Breakfast, Brunch\n14376 Culver Dr \nIrvine, CA 92604 \n(949) 556&#8211;4894</string>
+
+    <string name="historic_ranch">Irvine Ranch</string>
+    <string name="historic_ranch_sub">13042 Old Myford Rd\nIrvine, CA 92602\n(714) 973&#8211;6609</string>
+    <string name="historic_watson">Watson Bridge</string>
+    <string name="historic_watson_sub">Inner Ring Rd\nIrvine, CA 92697</string>
+    <string name="historic_hall">Schneiderman Hall</string>
+    <string name="historic_hall_sub">35 63 E Peltason Dr\nIrvine, CA 92697\n(949) 824&#8211;5128</string>
+    <string name="historic_northwood">Northwood Honor Memorial</string>
+    <string name="historic_northwood_sub">4531 Bryan Ave\nIrvine, CA 92620</string>
+
+    <string name="park_mike">Mike Ward Community Park</string>
+    <string name="park_mike_sub">20 Lake Rd\nIrvine, CA 92604\n(949) 724&#8211;6620</string>
+    <string name="park_bill">Bill Barber Community Park</string>
+    <string name="park_bill_sub">4 Civic Center Plz\nIrvine, CA 92606\n(949) 724&#8211;6714</string>
+    <string name="park_shade">Sweet Shade Neighborhood Park</string>
+    <string name="park_shade_sub">15 Sweet Shade\nIrvine, CA 92606\n(949) 724&#8211;6595</string>
+    <string name="park_mason">William R. Mason Regional Park</string>
+    <string name="park_mason_sub">18712 University Dr\nIrvine, CA 92612\n(949) 923&#8211;2220</string>
+
+
+</resources>
